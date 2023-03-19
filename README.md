@@ -3,7 +3,7 @@
 My name is Wilson and I'm a web developer.
 
 ---
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,8 +16,6 @@ My name is Wilson and I'm a web developer.
 - 🔭 I’m currently working on React with NextJS and Typescript
 - 🌱 I’m currently learning Typescript
 - 😄 Pronouns: him/his
-
----
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=wilsonfaustino&show_icons=true&theme=merko" alt="Wilson's GitHub stats" height="180em" />
