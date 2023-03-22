@@ -2,6 +2,9 @@
 
 My name is Wilson and I'm a web developer.
 
+[![wakatime](https://wakatime.com/badge/user/06464718-1d10-4e68-9b6b-819a470cfc42.svg)](https://wakatime.com/@06464718-1d10-4e68-9b6b-819a470cfc42)
+
+
 ---
 <div style="display: inline_block">
     <img align="center" alt="DOT-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
