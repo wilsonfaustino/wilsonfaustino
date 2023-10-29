@@ -21,7 +21,6 @@ My name is Wilson and I'm a web developer.
 - 😄 Pronouns: him/his
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=wilsonfaustino&show_icons=true&theme=merko" alt="Wilson's GitHub stats" height="180em" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonfaustino&layout=compact&show_icons=true&theme=merko&hide=java" alt="Top Langs" height="180em" />
 </div>
 
