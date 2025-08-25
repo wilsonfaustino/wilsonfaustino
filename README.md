@@ -38,6 +38,6 @@ Senior Frontend Developer | React Specialist | TypeScript Enthusiast | São Paul
 
 ## 🤘 Fun Facts
 
-- ☕ Coffee and random experiences enthusiast (sometimes both at the same time).
+- ☕ Coffee and random code experiences enthusiast (sometimes both at the same time).
 - 🎶 Random words in a conversation often trigger completely unrelated songs in my mental radio.
 - 👧 Proud dad of an amazing little girl who teaches me new ways to see the world—daily, and often unexpectedly.
